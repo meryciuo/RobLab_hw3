@@ -1,4 +1,4 @@
-# HOMEWORK3
+# RobLab_hw3
 This repository contains the packages required for the homework 3.
 Follow the instructions to run the packages properly.
 
